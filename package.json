@@ -18,23 +18,26 @@
     "@angular/platform-browser": "~13.1.0",
     "@angular/platform-browser-dynamic": "~13.1.0",
     "@angular/router": "~13.1.0",
-    "rxjs": "~7.4.0",
-    "tslib": "^2.3.0",
-    "zone.js": "~0.11.4",
     "admin-lte": "2.3.11",
+    "bootstrap": "^4.6.1",
     "core-js": "2.4.1",
     "font-awesome": "4.7.0",
     "intl": "1.2.5",
     "jquery": "3.1.1",
+    "json-server": "^0.17.0",
     "reflect-metadata": "0.1.9",
+    "rxjs": "~7.4.0",
     "ts-helpers": "1.1.2",
-    "bootstrap": "^4.6.1"
+    "tslib": "^2.3.0",
+    "web-animations-js": "^2.3.2",
+    "zone.js": "~0.11.4"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~13.1.1",
     "@angular/cli": "~13.1.1",
     "@angular/compiler-cli": "~13.1.0",
     "@types/jasmine": "~3.10.0",
+    "@types/json-server": "^0.14.4",
     "@types/node": "^12.11.1",
     "jasmine-core": "~3.10.0",
     "karma": "~6.3.0",
@@ -42,6 +45,8 @@
     "karma-coverage": "~2.1.0",
     "karma-jasmine": "~4.0.0",
     "karma-jasmine-html-reporter": "~1.7.0",
-    "typescript": "~4.5.2"
+    "typescript": "~4.5.2",
+    "@types/jsonwebtoken": "7.2.3",
+    "jsonwebtoken": "7.4.1"
   }
 }
